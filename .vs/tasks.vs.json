@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Kards10",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
